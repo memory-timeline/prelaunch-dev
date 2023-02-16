@@ -1,0 +1,2 @@
+.vertical-scroll::-webkit-scrollbar{height:1em;width:1em}.vertical-scroll::-webkit-scrollbar-track{background:#fff;border-radius:100vw}.vertical-scroll::-webkit-scrollbar-thumb{background:#0e516a;border:.25em solid #fff;border-radius:100vw}@supports (scrollbar-color:white #0e516a){*{scrollbar-color:#0e516a #fff}}
+/*# sourceMappingURL=822.1426fdfe.chunk.css.map*/
