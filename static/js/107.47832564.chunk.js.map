@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/107.47832564.chunk.js","mappings":"mLAEe,SAASA,IACtB,OAAO,SAAC,IAAW,CAACC,SAAS,OAC/B,C","sources":["pages/collage/Create.jsx"],"sourcesContent":["import BaseCollage from 'pages/collage/Base';\n\nexport default function CollageMaker() {\n  return <BaseCollage saveType=\"new\" />;\n}\n"],"names":["CollageMaker","saveType"],"sourceRoot":""}
