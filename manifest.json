@@ -1,6 +1,6 @@
 {
-  "short_name": "myMemoryStore",
-  "name": "myMemoryStore",
+  "short_name": "My Memory Store",
+  "name": "My Memory Store",
   "icons": [
     {
       "src": "favicon.png",
