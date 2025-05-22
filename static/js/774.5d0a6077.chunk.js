@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprelaunch=self.webpackChunkprelaunch||[]).push([[774],{29774:(e,u,n)=>{n.r(u),n.d(u,{default:()=>s});var a=n(74601),r=n(46417);function s(){return(0,r.jsx)(a.Z,{saveType:"new"})}}}]);
